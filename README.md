@@ -1,2 +1,2 @@
 
-# Weiser OS: Fork of Contiki OS (ng variant) for Weiser Group
+# Weiser OS: Contiki OS (ng variant) fork for Weiser Group
